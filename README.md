@@ -1,4 +1,4 @@
-# Property Post Maker
+# Property Post Maker by Rashid
 
 A live property marketing post generator. Fill in four fields — **Property &
 Type**, **Location**, **Price**, and **Highlights** — and instantly get a
